@@ -1,4 +1,4 @@
-# before using the genai you have to run pip install google-generativeai 
+# before using the genai you have to run pip install google-generativeai
 
 import google.generativeai as genai
 import os
